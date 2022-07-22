@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c466a1ee.css",
+    "main.js": "/static/js/main.9472a441.js",
+    "static/media/music1.mp3": "/static/media/music1.b0c89867959632d79407.mp3",
+    "static/media/music6.mp3": "/static/media/music6.cb27fa51f245d3df95c5.mp3",
+    "static/media/music2.mp3": "/static/media/music2.d7806dc9b267c3829b36.mp3",
+    "static/media/music3.mp3": "/static/media/music3.dd3cdf36b6f0369b6cb5.mp3",
+    "static/media/music4.mp3": "/static/media/music4.72644e2c6b9b76a44317.mp3",
+    "static/media/music5.mp3": "/static/media/music5.688e0aaeb42eafd0e23c.mp3",
+    "static/media/album4.jpg": "/static/media/album4.e96b52f6f8bd7fde5df3.jpg",
+    "static/media/album2.png": "/static/media/album2.1d69dd224efa9448971c.png",
+    "static/media/album5.jpg": "/static/media/album5.ebfbaca31d668fa729a1.jpg",
+    "static/media/album1.jpg": "/static/media/album1.edfa9c7163eed0ae74aa.jpg",
+    "static/media/album3.jpg": "/static/media/album3.a9529db15d263c371320.jpg",
+    "static/media/profile.svg": "/static/media/profile.f4cb7937b377747df9b814daf406ace5.svg",
+    "static/media/pause.svg": "/static/media/pause.cd57b46a9bab3a546307c1a58d5a43dc.svg",
+    "static/media/prev.svg": "/static/media/prev.d4c3e93e6185323dd41a37c498d71208.svg",
+    "index.html": "/index.html",
+    "static/media/next.svg": "/static/media/next.e3e87ac450b2baaa158bb5798cbf6696.svg",
+    "static/media/saved.svg": "/static/media/saved.b267a0889b5aa9734ae5af62a455d983.svg",
+    "static/media/home.svg": "/static/media/home.c0fc1835577f624d0256fbc815751ed5.svg",
+    "static/media/music.svg": "/static/media/music.9fa42356f96c04e82a2879b73a69e48d.svg",
+    "static/media/notifications.svg": "/static/media/notifications.e62fbeae920a1919c2afbe2f5dd5a4c6.svg",
+    "static/media/play.svg": "/static/media/play.979c159601b106dfdb73e728820dd358.svg",
+    "static/media/search.svg": "/static/media/search.3e25b95b3c7056dc4039dc78e56c1566.svg",
+    "main.c466a1ee.css.map": "/static/css/main.c466a1ee.css.map",
+    "main.9472a441.js.map": "/static/js/main.9472a441.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c466a1ee.css",
+    "static/js/main.9472a441.js"
+  ]
+}
